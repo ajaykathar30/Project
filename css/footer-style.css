@@ -97,6 +97,7 @@
     background-color: whitesmoke;
     font-family: "Baloo Bhai",sans-serif;
     color: black;
+    cursor:pointer;
 }
 @media (max-width:960px){
     .footer-box-content{
