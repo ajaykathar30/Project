@@ -51,7 +51,7 @@
 .first-box-image{
     width: 50%;
     height: 40rem;
-    background-image: url('/assets/front-page-img.png');
+    background-image: url('../assets/front-page-img.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
