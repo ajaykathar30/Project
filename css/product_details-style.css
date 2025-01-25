@@ -119,7 +119,9 @@
 .tags:hover{
     background-color: rgba(0, 0, 0,0.2 );
 }
-
+button{
+    cursor:pointer;
+}
 
 
 /* Responsive Design */
