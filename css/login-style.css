@@ -25,7 +25,7 @@
 .lft{
     width: 45%;
     height: 100%;
-    background-image: url('/assets/login-image.png');
+    background-image: url('../assets/login-image.png');
     background-position:right;
     background-size: cover;
     background-repeat: no-repeat;
