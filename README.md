@@ -1,2 +1,2 @@
 # Project
-First git Hub project
+Made a replica of e-commerce website
