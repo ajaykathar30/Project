@@ -25,11 +25,10 @@
 .lft{
     width: 45%;
     height: 100%;
-    background-image: url('../assets/login-image.png');
-    background-position:right;
+    background-image: url('../assets/front-page-img.png');
+    background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
-    filter: brightness(0.8);
     overflow: hidden;
 }
 .wrapper {
