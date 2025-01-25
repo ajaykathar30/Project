@@ -24,6 +24,6 @@ let redirect=Array.from(document.body.querySelectorAll(".redirect"));
 
 for(ele of redirect){
     ele.addEventListener("click",()=>{
-        window.open("http://127.0.0.1:3000/html/product_details.html");
+        window.location.href="http://127.0.0.1:3000/html/product_details.html";
     })
 }
