@@ -27,7 +27,7 @@ for(ele of redirect){
         window.location.href="https://ajaykathar30.github.io/Project/html/product_details.html";
     })
 }
-let redirectToCategoryDetails=Array.from(document.body.querySelectorAll(".redirectToCategoryDetails"));
+let redirectToCategoryDetails=document.body.querySelector(".redirectToCategoryDetails");
 
 redirectToCategoryDetails.addEventListener("click",()=>{
     window.location.href="https://ajaykathar30.github.io/Project/html/category-details.html";
