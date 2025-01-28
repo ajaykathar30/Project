@@ -11,6 +11,6 @@ document.body.querySelector(".redirect").addEventListener("click",(event)=>{
         }
     }
     else{
-        window.location.href = "http://127.0.0.1:3000/html/home.html";
+        window.location.href = "https://ajaykathar30.github.io/Project/html/home.html";
     }
 })

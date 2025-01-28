@@ -24,10 +24,16 @@ let redirect=Array.from(document.body.querySelectorAll(".redirect"));
 
 for(ele of redirect){
     ele.addEventListener("click",()=>{
-        window.location.href="http://127.0.0.1:3000/html/product_details.html";
+        window.location.href="https://ajaykathar30.github.io/Project/html/product_details.html";
     })
 }
+let redirectToCategoryDetails=Array.from(document.body.querySelectorAll(".redirectToCategoryDetails"));
+
+redirectToCategoryDetails.addEventListener("click",()=>{
+    window.location.href="https://ajaykathar30.github.io/Project/html/category-details.html";
+})
+
 let logo=document.body.querySelector(".logo");
 logo.addEventListener("click",()=>{
-    window.location.href="http://127.0.0.1:3000/html/home.html";
+    window.location.href="https://ajaykathar30.github.io/Project/html/home.html";
 })
